@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @arka1729
+- 👀 I’m interested in coding and fun stuff....
+- 🌱 I’m currently studying computer science engineering in the Institute of Engineering and Management kolkata...
+- 📫 How to reach me > DISCORD--( ìlLadwen#0446 )...
+
+<!---
+arka1729/arka1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
